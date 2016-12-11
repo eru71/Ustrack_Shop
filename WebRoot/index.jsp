@@ -21,6 +21,6 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   </head>
   
   <body>
-    This is structs2
+    This is structs2+hibernate+spring
   </body>
 </html>
